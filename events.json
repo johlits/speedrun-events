@@ -1,14 +1,17 @@
 {
     "events": [
         { "name": "Summer Games Done Quick 2023", "start": "2023-05-28", "end": "2023-06-04", "url": "https://gamesdonequick.com/" },
-	{ "name": "Pace Summer 2023", "start": "2023-07-02", "end": "2023-07-08", "url": "https://www.start.gg/tournament/pace-summer-2023-speedrun-convention/details" },
-	{ "name": "ESA Summer", "start": "2023-07-22", "end": "2023-07-29", "url": "https://esamarathon.com/ettevent/esa-summer-2023/" },
-	{ "name": "RTA in Japan Summer 2023", "start": "2023-08-10", "end": "2023-08-15", "url": "https://rtain.jp/" },
-	{ "name": "PACE Fall 2023 - Speedrun Convention", "start": "2023-11-05", "end": "2023-11-11", "url": "https://www.start.gg/tournament/pace-fall-2023-speedrun-convention/details" },
-	{ "name": "AGDQ 2024", "start": "2024-01-14", "end": "2024-01-21", "url": "https://gamesdonequick.com/" },
-	{ "name": "ESA Winter 2024", "start": "2024-02-17", "end": "2024-02-24", "url": "https://esamarathon.com/ettevent/esa-winter-2024/" },
-	{ "name": "Summer Games Done Quick 2024", "start": "2024-06-30", "end": "2024-07-06", "url": "https://gamesdonequick.com/" },
-	{ "name": "ESA Summer 2024", "start": "2024-07-20", "end": "2024-07-27", "url": "https://esamarathon.com/ettevent/esa-summer-2024/" },
-	{ "name": "PACE Fall 2024", "start": "2024-11-03", "end": "2024-11-09", "url": "https://www.start.gg/tournament/pace-fall-2024-speedrun-convention" }
+        { "name": "Pace Summer 2023", "start": "2023-07-02", "end": "2023-07-08", "url": "https://www.start.gg/tournament/pace-summer-2023-speedrun-convention/details" },
+        { "name": "ESA Summer", "start": "2023-07-22", "end": "2023-07-29", "url": "https://esamarathon.com/ettevent/esa-summer-2023/" },
+        { "name": "RTA in Japan Summer 2023", "start": "2023-08-10", "end": "2023-08-15", "url": "https://rtain.jp/" },
+        { "name": "PACE Fall 2023 - Speedrun Convention", "start": "2023-11-05", "end": "2023-11-11", "url": "https://www.start.gg/tournament/pace-fall-2023-speedrun-convention/details" },
+        { "name": "AGDQ 2024", "start": "2024-01-14", "end": "2024-01-21", "url": "https://gamesdonequick.com/" },
+        { "name": "ESA Winter 2024", "start": "2024-02-17", "end": "2024-02-24", "url": "https://esamarathon.com/ettevent/esa-winter-2024/" },
+        { "name": "Summer Games Done Quick 2024", "start": "2024-06-30", "end": "2024-07-06", "url": "https://gamesdonequick.com/" },
+        { "name": "ESA Summer 2024", "start": "2024-07-20", "end": "2024-07-27", "url": "https://esamarathon.com/ettevent/esa-summer-2024/" },
+        { "name": "PACE Fall 2024", "start": "2024-11-03", "end": "2024-11-09", "url": "https://www.start.gg/tournament/pace-fall-2024-speedrun-convention" },
+        { "name": "Frost Fatales 2025", "start": "2025-03-06", "end": "2025-03-15", "url": "https://gamesdonequick.com/site/framefatales" },
+        { "name": "ESA Winter 2025", "start": "2025-02-15", "end": "2025-02-22", "url": "https://esamarathon.com/" },
+        { "name": "SGDQ 2025", "start": "2025-06-29", "end": "2025-07-06", "url": "https://gamesdonequick.com/" }
     ]
 }
