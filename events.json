@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "name": "RTA in Japan Summer 2025",
+      "start": "2025-08-10",
+      "end": "2025-08-15",
+      "url": "https://rtain.jp/"
+    },
+    {
+      "name": "GSPS Dzieciom 2025",
+      "start": "2025-03-26",
+      "end": "2025-03-30",
+      "url": "https://www.speedrun.com/news/94vw6y5y-gsps-dzieciom-2025-begins-march-26-join-us-live"
+    },
+    {
+      "name": "gorlsgoFAST 2025",
+      "start": "2025-05-23",
+      "end": "2025-05-26",
+      "url": "https://www.speedrun.com/news/wd5ldj89-gorlsgofast-2025-is-open-for-submissions"
+    },
+    {
+      "name": "Persona Relay 2025",
+      "start": "2025-06-06",
+      "end": "2025-06-08",
+      "url": "https://www.speedrun.com/news/yp54ye5z-persona-relay-2025-june-6th-60-hours-of-persona-speedruns"
+    },
+    {
+      "name": "ESA Summer 2025 (European Speedrunner Assembly)",
+      "start": "2025-06-27",
+      "end": "2025-07-06",
+      "url": "https://esamarathon.com/"
+    },
+    {
+      "name": "Summer Games Done Quick 2025",
+      "start": "2025-07-06",
+      "end": "2025-07-13",
+      "url": "https://gamesdonequick.com/"
+    },
+    {
+      "name": "Australian Speedrun Marathon 2025",
+      "start": "2025-07-14",
+      "end": "2025-07-20",
+      "url": "https://www.ausspeedruns.com/events"
+    },
+    {
+      "name": "ESA Winter 2026 (European Speedrunner Assembly)",
+      "start": "2026-02-07",
+      "end": "2026-02-14",
+      "url": "https://esamarathon.com/"
+    }
+  ]
+}
