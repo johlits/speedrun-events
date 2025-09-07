@@ -1,16 +1,16 @@
 {
   "events": [
     {
-      "name": "RTA in Japan Summer 2025",
-      "start": "2025-08-10",
-      "end": "2025-08-15",
-      "url": "https://rtain.jp/"
+      "name": "WASD 2025 (Warwick’s Awesome Speedruns and Demos)",
+      "start": "2025-02-08",
+      "end": "2025-02-09",
+      "url": "https://warwickspeed.run/"
     },
     {
-      "name": "GSPS Dzieciom 2025",
-      "start": "2025-03-26",
-      "end": "2025-03-30",
-      "url": "https://www.speedrun.com/news/94vw6y5y-gsps-dzieciom-2025-begins-march-26-join-us-live"
+      "name": "Midwest Speedfest 2025 (at VGM Con)",
+      "start": "2025-04-11",
+      "end": "2025-04-13",
+      "url": "https://vgmcon.org/activities/midwestspeedfest-2/"
     },
     {
       "name": "gorlsgoFAST 2025",
@@ -22,6 +22,12 @@
       "name": "Persona Relay 2025",
       "start": "2025-06-06",
       "end": "2025-06-08",
+      "url": "https://www.speedrun.com/news/yp54ye5z-persona-relay-2025-june-6th-60-hours-of-persona-speedruns"
+    },
+    {
+      "name": "Licenseathon 2025",
+      "start": "2025-06-27",
+      "end": "2025-06-27",
       "url": "https://www.speedrun.com/news/yp54ye5z-persona-relay-2025-june-6th-60-hours-of-persona-speedruns"
     },
     {
@@ -47,6 +53,24 @@
       "start": "2025-08-09",
       "end": "2025-08-16",
       "url": "https://bsgmarathon.com/"
+    },
+    {
+      "name": "RTA in Japan Summer 2025",
+      "start": "2025-08-10",
+      "end": "2025-08-15",
+      "url": "https://rtain.jp/"
+    },
+    {
+      "name": "Flame Fatales 2025",
+      "start": "2025-09-07",
+      "end": "2025-09-14",
+      "url": "https://gamesdonequick.com/"
+    },
+    {
+      "name": "GSA Speedrun Summit 2025",
+      "start": "2025-09-12",
+      "end": "2025-09-14",
+      "url": "https://www.start.gg/tournament/gsa-speedrun-summit/details"
     },
     {
       "name": "ESA Winter 2026 (European Speedrunner Assembly)",
