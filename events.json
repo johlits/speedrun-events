@@ -1,82 +1,40 @@
 {
   "events": [
     {
-      "name": "WASD 2025 (Warwick’s Awesome Speedruns and Demos)",
-      "start": "2025-02-08",
-      "end": "2025-02-09",
-      "url": "https://warwickspeed.run/"
-    },
-    {
-      "name": "Midwest Speedfest 2025 (at VGM Con)",
-      "start": "2025-04-11",
-      "end": "2025-04-13",
-      "url": "https://vgmcon.org/activities/midwestspeedfest-2/"
-    },
-    {
-      "name": "gorlsgoFAST 2025",
-      "start": "2025-05-23",
-      "end": "2025-05-26",
-      "url": "https://www.speedrun.com/news/wd5ldj89-gorlsgofast-2025-is-open-for-submissions"
-    },
-    {
-      "name": "Persona Relay 2025",
-      "start": "2025-06-06",
-      "end": "2025-06-08",
-      "url": "https://www.speedrun.com/news/yp54ye5z-persona-relay-2025-june-6th-60-hours-of-persona-speedruns"
-    },
-    {
-      "name": "Licenseathon 2025",
-      "start": "2025-06-27",
-      "end": "2025-06-27",
-      "url": "https://www.speedrun.com/news/yp54ye5z-persona-relay-2025-june-6th-60-hours-of-persona-speedruns"
-    },
-    {
-      "name": "ESA Summer 2025 (European Speedrunner Assembly)",
-      "start": "2025-06-27",
-      "end": "2025-07-06",
-      "url": "https://esamarathon.com/"
-    },
-    {
-      "name": "Summer Games Done Quick 2025",
-      "start": "2025-07-06",
-      "end": "2025-07-13",
-      "url": "https://gamesdonequick.com/"
-    },
-    {
-      "name": "Australian Speedrun Marathon 2025",
-      "start": "2025-07-14",
-      "end": "2025-07-20",
-      "url": "https://www.ausspeedruns.com/events"
-    },
-    {
-      "name": "BSG Marathon 2025",
-      "start": "2025-08-09",
-      "end": "2025-08-16",
-      "url": "https://bsgmarathon.com/"
-    },
-    {
-      "name": "RTA in Japan Summer 2025",
-      "start": "2025-08-10",
-      "end": "2025-08-15",
-      "url": "https://rtain.jp/"
-    },
-    {
-      "name": "Flame Fatales 2025",
-      "start": "2025-09-07",
-      "end": "2025-09-14",
-      "url": "https://gamesdonequick.com/"
-    },
-    {
-      "name": "GSA Speedrun Summit 2025",
-      "start": "2025-09-12",
-      "end": "2025-09-14",
-      "url": "https://www.start.gg/tournament/gsa-speedrun-summit/details"
-    },
-    {
       "name": "ESA Winter 2026 (European Speedrunner Assembly)",
       "start": "2026-02-07",
       "end": "2026-02-14",
-      "url": "https://esamarathon.com/"
+      "url": "https://esamarathon.com/ettevent/esa-winter-2026/"  
+    },
+    {
+      "name": "Back to Black 2025 (Games Done Quick)",
+      "start": "2025-02-06",
+      "end": "2025-02-09",
+      "url": "https://gamesdonequick.com/"  
+    },
+    {
+      "name": "Frost Fatales 2025",
+      "start": "2025-03-09",
+      "end": "2025-03-16",
+      "url": "https://gamesdonequick.com/"  
+    },
+    {
+      "name": "Summer Games Done Quick 2025 (SGDQ)",
+      "start": "2025-07-06",
+      "end": "2025-07-13",
+      "url": "https://gamesdonequick.com/"  
+    },
+    {
+      "name": "Zocktoberfest 2025 (ZFM)",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "url": "https://germench.de/eventlist/zocktoberfest-2025/"  
+    },
+    {
+      "name": "UKSG / RPG Limit Break (example recurring, check oengus for dates)",
+      "start": null,
+      "end": null,
+      "url": "https://oengus.io/"  
     }
   ]
 }
