@@ -1,6 +1,12 @@
 {
   "events": [
     {
+      "name": "AGDQ 2026 (Awesome Games Done Quick)",
+      "start": "2026-01-04",
+      "end": "2026-01-10",
+      "url": "https://gamesdonequick.com/schedule/62"  
+    },
+    {
       "name": "ESA Winter 2026 (European Speedrunner Assembly)",
       "start": "2026-02-07",
       "end": "2026-02-14",
