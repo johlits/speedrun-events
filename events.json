@@ -1,40 +1,34 @@
 {
   "events": [
     {
+      "name": "Zocktoberfest 2025 (ZFM)",
+      "start": "2025-10-20",
+      "end": "2025-10-26",
+      "url": "https://germench.de/eventlist/zocktoberfest-2025/"
+    },
+    {
+      "name": "SpeeDons 6",
+      "start": "2026-05-07",
+      "end": "2026-05-10",
+      "url": "https://xcancel.com/"
+    },
+    {
       "name": "AGDQ 2026 (Awesome Games Done Quick)",
       "start": "2026-01-04",
       "end": "2026-01-10",
-      "url": "https://gamesdonequick.com/schedule/62"  
+      "url": "https://gamesdonequick.com/schedule/62"
     },
     {
       "name": "ESA Winter 2026 (European Speedrunner Assembly)",
       "start": "2026-02-07",
       "end": "2026-02-14",
-      "url": "https://esamarathon.com/ettevent/esa-winter-2026/"  
+      "url": "https://esamarathon.com/ettevent/esa-winter-2026/"
     },
     {
-      "name": "Back to Black 2025 (Games Done Quick)",
-      "start": "2025-02-06",
-      "end": "2025-02-09",
-      "url": "https://gamesdonequick.com/"  
-    },
-    {
-      "name": "Frost Fatales 2025",
-      "start": "2025-03-09",
-      "end": "2025-03-16",
-      "url": "https://gamesdonequick.com/"  
-    },
-    {
-      "name": "Summer Games Done Quick 2025 (SGDQ)",
-      "start": "2025-07-06",
-      "end": "2025-07-13",
-      "url": "https://gamesdonequick.com/"  
-    },
-    {
-      "name": "Zocktoberfest 2025 (ZFM)",
-      "start": "2025-10-20",
-      "end": "2025-10-26",
-      "url": "https://germench.de/eventlist/zocktoberfest-2025/"  
+      "name": "AusSpeedruns Open 2026 (ASO 2026)",
+      "start": "2026-01-24",
+      "end": "2026-01-25",
+      "url": "https://ausspeedruns.com/ASO2026"
     }
   ]
 }
