@@ -7,10 +7,16 @@
       "url": "https://germench.de/eventlist/zocktoberfest-2025/"
     },
     {
-      "name": "SpeeDons 6",
-      "start": "2026-05-07",
-      "end": "2026-05-10",
-      "url": "https://xcancel.com/"
+      "name": "Summer Games Done Quick 2025 (SGDQ 2025)",
+      "start": "2025-07-06",
+      "end": "2025-07-13",
+      "url": "https://gamesdonequick.com/schedule"
+    },
+    {
+      "name": "Zeldathon (2025–2026)",
+      "start": "2025-12-27",
+      "end": "2026-01-01",
+      "url": "https://zeldathon.net/"
     },
     {
       "name": "AGDQ 2026 (Awesome Games Done Quick)",
@@ -19,16 +25,40 @@
       "url": "https://gamesdonequick.com/schedule/62"
     },
     {
+      "name": "AusSpeedruns Open 2026 (ASO 2026)",
+      "start": "2026-01-24",
+      "end": "2026-01-25",
+      "url": "https://ausspeedruns.com/ASO2026"
+    },
+    {
       "name": "ESA Winter 2026 (European Speedrunner Assembly)",
       "start": "2026-02-07",
       "end": "2026-02-14",
       "url": "https://esamarathon.com/ettevent/esa-winter-2026/"
     },
     {
-      "name": "AusSpeedruns Open 2026 (ASO 2026)",
-      "start": "2026-01-24",
-      "end": "2026-01-25",
-      "url": "https://ausspeedruns.com/ASO2026"
+      "name": "WASD 2026 (Warwick's Awesome Speedruns and Demos)",
+      "start": "2026-02-14",
+      "end": "2026-02-15",
+      "url": "https://warwickspeed.run/"
+    },
+    {
+      "name": "Frame Fatales 2026",
+      "start": "2026-03-08",
+      "end": "2026-03-15",
+      "url": "https://gamesdonequick.com/"
+    },
+    {
+      "name": "SpeeDons 6",
+      "start": "2026-05-07",
+      "end": "2026-05-10",
+      "url": "https://xcancel.com/"
+    },
+    {
+      "name": "ESA Summer 2026 (European Speedrunner Assembly)",
+      "start": "2026-07-?",
+      "end": "2026-07-?",
+      "url": "https://esamarathon.com/"
     }
   ]
 }
