@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "name": "Zocktoberfest 2025 (ZFM)",
-      "start": "2025-10-20",
-      "end": "2025-10-26",
-      "url": "https://germench.de/eventlist/zocktoberfest-2025/"
-    },
-    {
-      "name": "Summer Games Done Quick 2025 (SGDQ 2025)",
-      "start": "2025-07-06",
-      "end": "2025-07-13",
-      "url": "https://gamesdonequick.com/schedule"
-    },
-    {
-      "name": "Zeldathon (2025–2026)",
-      "start": "2025-12-27",
-      "end": "2026-01-01",
-      "url": "https://zeldathon.net/"
-    },
-    {
       "name": "AGDQ 2026 (Awesome Games Done Quick)",
       "start": "2026-01-04",
       "end": "2026-01-10",
@@ -56,9 +38,21 @@
     },
     {
       "name": "ESA Summer 2026 (European Speedrunner Assembly)",
-      "start": "2026-07-?",
-      "end": "2026-07-?",
+      "start": "2026-07-25",
+      "end": "2026-08-01",
       "url": "https://esamarathon.com/"
+    },
+    {
+      "name": "BSG Plus 2026 (Benelux Speedrunner Gathering)",
+      "start": "2026-01-17",
+      "end": "2026-01-24",
+      "url": "https://bsgmarathon.com/events/bsgplus26"
+    },
+    {
+      "name": "BSG Annual 2026 (Benelux Speedrunner Gathering)",
+      "start": "2026-07-25",
+      "end": "2026-08-01",
+      "url": "https://bsgmarathon.com/events/bsg2026"
     }
   ]
 }
