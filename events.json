@@ -1,52 +1,20 @@
-{
-  "events": [
+{"events": [
     {
-      "name": "AGDQ 2026 (Awesome Games Done Quick)",
-      "start": "2026-01-04",
-      "end": "2026-01-10",
-      "url": "https://gamesdonequick.com/schedule/62"
+        "name": "SpeeDons 6",
+        "start": "2026-05-07",
+        "end": "2026-05-10",
+        "url": "https://speeDons.fr/"
     },
     {
-      "name": "BSG Plus 2026 (Benelux Speedrunner Gathering)",
-      "start": "2026-01-17",
-      "end": "2026-01-24",
-      "url": "https://bsgmarathon.com/events/bsgplus26"
+        "name": "BSG Annual 2026 (Benelux Speedrunner Gathering)",
+        "start": "2026-07-25",
+        "end": "2026-08-01",
+        "url": "https://bsgmarathon.com/events/bsg2026"
     },
     {
-      "name": "AusSpeedruns Open 2026 (ASO 2026)",
-      "start": "2026-01-24",
-      "end": "2026-01-25",
-      "url": "https://ausspeedruns.com/ASO2026"
-    },
-    {
-      "name": "ESA Winter 2026 (European Speedrunner Assembly)",
-      "start": "2026-02-07",
-      "end": "2026-02-14",
-      "url": "https://esamarathon.com/ettevent/esa-winter-2026/"
-    },
-    {
-      "name": "Frame Fatales 2026",
-      "start": "2026-03-08",
-      "end": "2026-03-15",
-      "url": "https://gamesdonequick.com/"
-    },
-    {
-      "name": "SpeeDons 6",
-      "start": "2026-05-07",
-      "end": "2026-05-10",
-      "url": "https://speeDons.fr/"
-    },
-    {
-      "name": "BSG Annual 2026 (Benelux Speedrunner Gathering)",
-      "start": "2026-07-25",
-      "end": "2026-08-01",
-      "url": "https://bsgmarathon.com/events/bsg2026"
-    },
-    {
-      "name": "ESA Summer 2026 (European Speedrunner Assembly)",
-      "start": "2026-08-01",
-      "end": "2026-08-08",
-      "url": "https://esamarathon.com/"
+        "name": "ESA Summer 2026 (European Speedrunner Assembly)",
+        "start": "2026-08-01",
+        "end": "2026-08-08",
+        "url": "https://esamarathon.com/"
     }
-  ]
-}
+]}
