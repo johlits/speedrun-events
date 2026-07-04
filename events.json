@@ -49,6 +49,12 @@
       "url": "https://speedons.fr/"
     },
     {
+      "name": "RPG Limit Break 2026",
+      "start": "2026-05-17",
+      "end": "2026-05-23",
+      "url": "https://rpglimitbreak.com/"
+    },
+    {
       "name": "SGDQ 2026 (Summer Games Done Quick)",
       "start": "2026-07-05",
       "end": "2026-07-11",
@@ -66,24 +72,11 @@
       "end": "2026-08-08",
       "url": "https://esamarathon.com/"
     },
-
-    {
-      "name": "Frame Fatales 2026",
-      "start": null,
-      "end": null,
-      "url": "https://gamesdonequick.com/"
-    },
     {
       "name": "Flame Fatales 2026",
-      "start": null,
-      "end": null,
+      "start": "2026-09-13",
+      "end": "2026-09-19",
       "url": "https://gamesdonequick.com/"
-    },
-    {
-      "name": "RPG Limit Break 2026",
-      "start": null,
-      "end": null,
-      "url": "https://rpglimitbreak.com/"
     },
     {
       "name": "UK Speedrunner Gathering 2026",
