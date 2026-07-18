@@ -19,7 +19,7 @@
       "url": "https://ausspeedruns.com/"
     },
     {
-      "name": "Back to Black 2026",
+      "name": "Back in a Flash 2026",
       "start": "2026-02-05",
       "end": "2026-02-08",
       "url": "https://gamesdonequick.com/"
@@ -73,9 +73,21 @@
       "url": "https://esamarathon.com/"
     },
     {
+      "name": "gamescom GDQ 2026",
+      "start": "2026-08-28",
+      "end": "2026-08-30",
+      "url": "https://gamesdonequick.com/"
+    },
+    {
       "name": "Flame Fatales 2026",
       "start": "2026-09-13",
       "end": "2026-09-19",
+      "url": "https://gamesdonequick.com/"
+    },
+    {
+      "name": "Games Done Queer 2026",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
       "url": "https://gamesdonequick.com/"
     },
     {
