@@ -13,11 +13,11 @@
       "url": "https://bsgmarathon.com/"
     },
     {
-	  "name": "AusSpeedruns Open 2026",
-	  "start": "2026-01-23",
-	  "end": "2026-01-25",
-	  "url": "https://ausspeedruns.com/"
-	},
+      "name": "AusSpeedruns Open 2026",
+      "start": "2026-01-24",
+      "end": "2026-01-25",
+      "url": "https://ausspeedruns.com/"
+    },
     {
       "name": "Back in a Flash 2026",
       "start": "2026-02-05",
@@ -59,6 +59,12 @@
       "start": "2026-07-05",
       "end": "2026-07-11",
       "url": "https://gamesdonequick.com/"
+    },
+    {
+      "name": "Australian Speedrun Marathon 2026",
+      "start": "2026-07-13",
+      "end": "2026-07-19",
+      "url": "https://ausspeedruns.com/"
     },
     {
       "name": "BSG Annual 2026",
