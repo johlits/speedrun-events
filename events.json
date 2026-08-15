@@ -1,34 +1,16 @@
 {
   "events": [
     {
-      "name": "ESA Summer 2026",
-      "start": "2026-07-31",
-      "end": "2026-08-08",
-      "url": "https://esamarathon.com/"
-    },
-    {
       "name": "gamescom GDQ 2026",
       "start": "2026-08-28",
       "end": "2026-08-30",
-      "url": "https://gamesdonequick.com/"
+      "url": "https://www.gamescom.global/de/program/gamescom-gdq"
     },
     {
       "name": "Flame Fatales 2026",
       "start": "2026-09-13",
       "end": "2026-09-19",
-      "url": "https://gamesdonequick.com/"
-    },
-    {
-      "name": "Games Done Queer 2026",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "url": "https://gamesdonequick.com/"
-    },
-    {
-      "name": "UKSG Blue 2026",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "url": "https://ukspeedrun.com/"
+      "url": "https://tracker.gamesdonequick.com/tracker/runs/flamefatales2026"
     }
   ]
 }
