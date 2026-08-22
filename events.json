@@ -7,10 +7,34 @@
       "url": "https://www.gamescom.global/de/program/gamescom-gdq"
     },
     {
+      "name": "Speedrun Stage @ PAX West 2026",
+      "start": "2026-09-04",
+      "end": "2026-09-07",
+      "url": "https://tracker.gamesdonequick.com/tracker/runs/SpeedAtPAXWest26"
+    },
+    {
       "name": "Flame Fatales 2026",
       "start": "2026-09-13",
       "end": "2026-09-19",
       "url": "https://tracker.gamesdonequick.com/tracker/runs/flamefatales2026"
+    },
+    {
+      "name": "N64 30th Anniversary Marathon",
+      "start": "2026-09-25",
+      "end": "2026-09-27",
+      "url": "https://www.speedrun.com/news/17vrmj5x-celebrate-30-years-of-n64-w-the-30th-anniversary-marathon"
+    },
+    {
+      "name": "RPGSU Offline 2026",
+      "start": "2026-10-22",
+      "end": "2026-10-25",
+      "url": "https://rpgsu.org/events/offline2026"
+    },
+    {
+      "name": "FAST-ATHON 2026",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "url": "https://www.speedrun.com/news/wo83jjvm-fast-athon-2026-is-back-submissions-are-open"
     }
   ]
 }
