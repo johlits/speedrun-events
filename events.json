@@ -1,12 +1,6 @@
 {
   "events": [
     {
-      "name": "Speedrun Stage @ PAX West 2026",
-      "start": "2026-09-04",
-      "end": "2026-09-07",
-      "url": "https://tracker.gamesdonequick.com/tracker/runs/SpeedAtPAXWest26"
-    },
-    {
       "name": "Flame Fatales 2026",
       "start": "2026-09-13",
       "end": "2026-09-19",
@@ -23,6 +17,12 @@
       "start": "2026-09-25",
       "end": "2026-09-27",
       "url": "https://www.speedrun.com/series/zelda/forums/b8y0r"
+    },
+    {
+      "name": "Big Bad Game-a-thon 2026",
+      "start": "2026-09-25",
+      "end": "2026-09-27",
+      "url": "https://bigbadgameathon.com/"
     },
     {
       "name": "Games Done Queer 2026",
