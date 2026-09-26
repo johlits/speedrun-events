@@ -1,12 +1,6 @@
 {
   "events": [
     {
-      "name": "Flame Fatales 2026",
-      "start": "2026-09-13",
-      "end": "2026-09-19",
-      "url": "https://tracker.gamesdonequick.com/tracker/runs/flamefatales2026"
-    },
-    {
       "name": "N64 30th Anniversary Marathon",
       "start": "2026-09-25",
       "end": "2026-09-27",
@@ -41,6 +35,12 @@
       "start": "2026-10-23",
       "end": "2026-10-25",
       "url": "https://www.speedrun.com/news/jd5ye382-horrible-games-marathon"
+    },
+    {
+      "name": "DPX Marathon 2026",
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "url": "https://www.speedrun.com/news/9n526g8l-dpx-marathon-submissions-close-oct-1st"
     },
     {
       "name": "FAST-ATHON 2026",
