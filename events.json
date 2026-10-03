@@ -1,28 +1,22 @@
 {
   "events": [
     {
-      "name": "N64 30th Anniversary Marathon",
-      "start": "2026-09-25",
-      "end": "2026-09-27",
-      "url": "https://www.speedrun.com/news/17vrmj5x-celebrate-30-years-of-n64-w-the-30th-anniversary-marathon"
-    },
-    {
-      "name": "ZSR Marathon 2026",
-      "start": "2026-09-25",
-      "end": "2026-09-27",
-      "url": "https://www.speedrun.com/series/zelda/forums/b8y0r"
-    },
-    {
-      "name": "Big Bad Game-a-thon 2026",
-      "start": "2026-09-25",
-      "end": "2026-09-27",
-      "url": "https://bigbadgameathon.com/"
-    },
-    {
       "name": "Games Done Queer 2026",
       "start": "2026-10-03",
       "end": "2026-10-04",
       "url": "https://submissions.gamesdonequick.com/event/cmsfl99kh0000ggjn030zvskh"
+    },
+    {
+      "name": "UKSG Blue 2026",
+      "start": "2026-10-03",
+      "end": "2026-10-04",
+      "url": "https://www.tickettailor.com/events/uksgmarathon"
+    },
+    {
+      "name": "AusSpeedruns at PAX 2026",
+      "start": "2026-10-09",
+      "end": "2026-10-11",
+      "url": "https://aus.paxsite.com/en-us/features/speedrunning.html"
     },
     {
       "name": "RPGSU Offline 2026",
@@ -43,10 +37,22 @@
       "url": "https://www.speedrun.com/news/9n526g8l-dpx-marathon-submissions-close-oct-1st"
     },
     {
+      "name": "Bisalina Speedruns 2026",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "url": "https://www.presseportal.de/pm/177679/6345326"
+    },
+    {
       "name": "FAST-ATHON 2026",
       "start": "2026-11-13",
       "end": "2026-11-15",
       "url": "https://www.speedrun.com/news/wo83jjvm-fast-athon-2026-is-back-submissions-are-open"
+    },
+    {
+      "name": "Megaten RTA Marathon 2026",
+      "start": "2026-11-13",
+      "end": "2026-11-16",
+      "url": "https://megatenspeedruns.com/"
     },
     {
       "name": "Albion Speedrun Marathon Brighton",
