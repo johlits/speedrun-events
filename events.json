@@ -1,28 +1,28 @@
 {
   "events": [
     {
-      "name": "Games Done Queer 2026",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "url": "https://submissions.gamesdonequick.com/event/cmsfl99kh0000ggjn030zvskh"
-    },
-    {
-      "name": "UKSG Blue 2026",
-      "start": "2026-10-03",
-      "end": "2026-10-04",
-      "url": "https://www.tickettailor.com/events/uksgmarathon"
-    },
-    {
       "name": "AusSpeedruns at PAX 2026",
       "start": "2026-10-09",
       "end": "2026-10-11",
       "url": "https://aus.paxsite.com/en-us/features/speedrunning.html"
     },
     {
+      "name": "BRAT 2026",
+      "start": "2026-10-14",
+      "end": "2026-10-18",
+      "url": "https://www.brat.com.br/eventos"
+    },
+    {
       "name": "RPGSU Offline 2026",
       "start": "2026-10-22",
       "end": "2026-10-25",
       "url": "https://rpgsu.org/events/offline2026"
+    },
+    {
+      "name": "Stunfest 2026",
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "url": "https://www.stunfest.com/appel-a-participation-speedrun-pour-le-stunfest-2026/"
     },
     {
       "name": "Horrible Games Marathon",
