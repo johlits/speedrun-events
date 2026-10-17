@@ -1,12 +1,6 @@
 {
   "events": [
     {
-      "name": "AusSpeedruns at PAX 2026",
-      "start": "2026-10-09",
-      "end": "2026-10-11",
-      "url": "https://aus.paxsite.com/en-us/features/speedrunning.html"
-    },
-    {
       "name": "BRAT 2026",
       "start": "2026-10-14",
       "end": "2026-10-18",
@@ -47,6 +41,12 @@
       "start": "2026-11-13",
       "end": "2026-11-15",
       "url": "https://www.speedrun.com/news/wo83jjvm-fast-athon-2026-is-back-submissions-are-open"
+    },
+    {
+      "name": "GDQ Express @ TwitchCon 2026",
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "url": "https://submissions.gamesdonequick.com/"
     },
     {
       "name": "Megaten RTA Marathon 2026",
