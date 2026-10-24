@@ -1,12 +1,6 @@
 {
   "events": [
     {
-      "name": "BRAT 2026",
-      "start": "2026-10-14",
-      "end": "2026-10-18",
-      "url": "https://www.brat.com.br/eventos"
-    },
-    {
       "name": "RPGSU Offline 2026",
       "start": "2026-10-22",
       "end": "2026-10-25",
@@ -46,7 +40,7 @@
       "name": "GDQ Express @ TwitchCon 2026",
       "start": "2026-11-13",
       "end": "2026-11-15",
-      "url": "https://submissions.gamesdonequick.com/"
+      "url": "https://blog.twitch.tv/en/2026/10/14/get-ready-for-the-biggest-weekend-in-livestreaming/"
     },
     {
       "name": "Megaten RTA Marathon 2026",
@@ -59,6 +53,12 @@
       "start": "2026-11-21",
       "end": "2026-11-22",
       "url": "https://www.speedrun.com/news/16vqj08p-submissions-open-for-next-live-uk-event-albion-speedrun-marathon-brighton"
+    },
+    {
+      "name": "RTA in Japan Winter 2026",
+      "start": "2026-12-25",
+      "end": "2026-12-31",
+      "url": "https://rtain.jp/"
     }
   ]
 }
