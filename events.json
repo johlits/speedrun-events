@@ -1,24 +1,6 @@
 {
   "events": [
     {
-      "name": "RPGSU Offline 2026",
-      "start": "2026-10-22",
-      "end": "2026-10-25",
-      "url": "https://rpgsu.org/events/offline2026"
-    },
-    {
-      "name": "Stunfest 2026",
-      "start": "2026-10-23",
-      "end": "2026-10-25",
-      "url": "https://www.stunfest.com/appel-a-participation-speedrun-pour-le-stunfest-2026/"
-    },
-    {
-      "name": "Horrible Games Marathon",
-      "start": "2026-10-23",
-      "end": "2026-10-25",
-      "url": "https://www.speedrun.com/news/jd5ye382-horrible-games-marathon"
-    },
-    {
       "name": "DPX Marathon 2026",
       "start": "2026-11-06",
       "end": "2026-11-08",
@@ -29,6 +11,12 @@
       "start": "2026-11-07",
       "end": "2026-11-07",
       "url": "https://www.presseportal.de/pm/177679/6345326"
+    },
+    {
+      "name": "Touhou Densousai 2026",
+      "start": "2026-11-07",
+      "end": "2026-11-08",
+      "url": "https://touhougarakuta.com/news/261025a/"
     },
     {
       "name": "FAST-ATHON 2026",
@@ -53,6 +41,12 @@
       "start": "2026-11-21",
       "end": "2026-11-22",
       "url": "https://www.speedrun.com/news/16vqj08p-submissions-open-for-next-live-uk-event-albion-speedrun-marathon-brighton"
+    },
+    {
+      "name": "Fukuoka RTA Forum 2026 Autumn",
+      "start": "2026-11-21",
+      "end": "2026-11-23",
+      "url": "https://m-rta.com/fukuoka-rta-forum-2026-autumn/"
     },
     {
       "name": "RTA in Japan Winter 2026",
