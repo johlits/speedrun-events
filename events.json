@@ -7,30 +7,6 @@
       "url": "https://www.speedrun.com/news/73v1dzvo-run-arena-edition-3"
     },
     {
-      "name": "DPX Marathon 2026",
-      "start": "2026-11-06",
-      "end": "2026-11-08",
-      "url": "https://www.speedrun.com/news/9n526g8l-dpx-marathon-submissions-close-oct-1st"
-    },
-    {
-      "name": "Bisalina Speedruns 2026",
-      "start": "2026-11-07",
-      "end": "2026-11-07",
-      "url": "https://www.presseportal.de/pm/177679/6345326"
-    },
-    {
-      "name": "Touhou Densousai 2026",
-      "start": "2026-11-07",
-      "end": "2026-11-08",
-      "url": "https://touhougarakuta.com/news/261025a/"
-    },
-    {
-      "name": "Splinter Cell Speedrunning Marathon 2026",
-      "start": "2026-11-12",
-      "end": "2026-11-13",
-      "url": "https://www.speedrun.com/news/rk8e9kve-the-splinter-cell-speedrunning-marathon-2026"
-    },
-    {
       "name": "FAST-ATHON 2026",
       "start": "2026-11-13",
       "end": "2026-11-15",
@@ -71,6 +47,18 @@
       "start": "2026-12-25",
       "end": "2026-12-31",
       "url": "https://rtain.jp/"
+    },
+    {
+      "name": "Awesome Games Done Quick 2027",
+      "start": "2027-01-03",
+      "end": "2027-01-10",
+      "url": "https://tracker.gamesdonequick.com/tracker/event/AGDQ2027"
+    },
+    {
+      "name": "RPGSU Online 2026",
+      "start": "2027-03-29",
+      "end": "2027-04-04",
+      "url": "https://rpgsu.org/events/online2026"
     }
   ]
 }
